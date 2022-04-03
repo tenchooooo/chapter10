@@ -63,6 +63,8 @@ footer {
         margin: 0 auto;
     }
     .step-box:nth-child(2){
-        margin: 20px;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
